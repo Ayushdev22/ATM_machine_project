@@ -1,2 +1,3 @@
+HELLO JAVA DEVLOPER
 # ATM_machine_project
-function are wronge
+function are wrong
